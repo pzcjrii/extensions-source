@@ -1,9 +1,0 @@
-ext {
-    extName = 'Raijin Scans'
-    extClass = '.RaijinScans'
-    themePkg = 'madara'
-    baseUrl = 'https://raijinscan.fr'
-    overrideVersionCode = 4
-}
-
-apply from: "$rootDir/common.gradle"
